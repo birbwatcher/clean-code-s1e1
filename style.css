@@ -15,7 +15,7 @@ header {
 header img {
   width: 100%;
 }
-.more-inf {
+.details {
   font-family: fantasy, cursive;
 }
 
@@ -27,7 +27,7 @@ header img {
 
 }
 
-.centered-main-page-element {
+.todo-list {
   display: block;
   width: 500px;
   margin: 0 auto 0;
